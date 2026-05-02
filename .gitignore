@@ -1,5 +1,7 @@
 data/
 ckpt/
+pretrained/*.ckpt
+*.ckpt
 out/
 __pycache__/
 lightning_logs/
